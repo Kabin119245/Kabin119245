@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kabin119245
 - 👀 I’m interested in Programming.
-- 🌱 I’m currently learning Front End Development(react)
+- 🌱 I’m currently learning JAVA.
 - 📫 How to reach me girikabin505@gmail.com
 
 <!---
