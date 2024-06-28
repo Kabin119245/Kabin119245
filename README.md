@@ -31,11 +31,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kabin119245&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-###
 
-<img src="https://raw.githubusercontent.com/Kabin119245/Kabin119245/output/snake.svg" alt="Snake animation" />
-
-###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/Kabin119245/count.svg?"  />
